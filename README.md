@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do gfbasile 😁
+## Bem-vindo(a) ao perfil do Gfbasile 😁
 
  <div>
    <a href="https://github.com/gfbasile">
